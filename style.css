@@ -37,3 +37,13 @@ button{
 .dsg{
     box-shadow: inset 6px 6px 10px rgba(190,97,97,1),-6px -6px 10px rgba(190,97,97,1);;
 }
+
+#input{
+    max-width: 400px;
+    text-align:center;
+    margin:10px;
+    color: #ffffff ;
+    overflow: hidden;
+    font-size: 60px;
+
+}
