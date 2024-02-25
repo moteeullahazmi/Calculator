@@ -43,3 +43,12 @@ button{
     inset -6px -6px 10px rgba(190,97,97,1);;
 }
 
+#input {
+    max-width: 400px;
+    text-align: center;
+    font-size: 10px;
+    color: #ffffff;
+    overflow: hidden;
+    font-size: 60px;
+}
+
